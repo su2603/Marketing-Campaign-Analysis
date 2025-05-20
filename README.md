@@ -1,4 +1,4 @@
-# Marketing Campaign Analysis App Documentation
+# Marketing Campaign Analysis App 
 
 ## Overview
 
