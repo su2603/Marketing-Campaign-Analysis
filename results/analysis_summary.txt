@@ -1,0 +1,18 @@
+Marketing Campaign Analysis Summary
+Generated on: 2025-05-19 12:47
+
+Dataset Statistics:
+- Total records: 2240
+- Features: 41
+- Response rate: 14.91%
+
+Model Performance:
+- AUC: 0.8690489847424573
+- Accuracy: 0.9647321428571428
+- Precision: 0.9646031209269369
+- Recall: 0.9647321428571428
+
+Customer Segmentation:
+- Number of clusters: 3
+- Silhouette score: 0.17447978610380907
+

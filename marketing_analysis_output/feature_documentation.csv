@@ -1,0 +1,62 @@
+Feature,Type,Statistics,Important,Importance Rank
+Education,Categorical,Unique values: 5,No,-
+Marital_Status,Categorical,Unique values: 8,No,-
+Income,Numeric,"Min: 1730.00, Max: 166542.75, Mean: 52019.33",Yes,8
+Kidhome,Numeric,"Min: 0.00, Max: 2.00, Mean: 0.44",Yes,46
+Teenhome,Numeric,"Min: 0.00, Max: 2.00, Mean: 0.51",Yes,42
+Dt_Customer,Other,,No,-
+Recency,Numeric,"Min: 0.00, Max: 99.00, Mean: 49.11",Yes,1
+MntWines,Numeric,"Min: 0.00, Max: 1493.00, Mean: 303.94",Yes,17
+MntFruits,Numeric,"Min: 0.00, Max: 199.00, Mean: 26.30",Yes,25
+MntMeatProducts,Numeric,"Min: 0.00, Max: 1725.00, Mean: 166.95",Yes,12
+MntFishProducts,Numeric,"Min: 0.00, Max: 259.00, Mean: 37.53",Yes,28
+MntSweetProducts,Numeric,"Min: 0.00, Max: 263.00, Mean: 27.06",Yes,27
+MntGoldProds,Numeric,"Min: 0.00, Max: 362.00, Mean: 44.02",Yes,10
+NumDealsPurchases,Numeric,"Min: 0.00, Max: 15.00, Mean: 2.33",Yes,37
+NumWebPurchases,Numeric,"Min: 0.00, Max: 27.00, Mean: 4.08",Yes,32
+NumCatalogPurchases,Numeric,"Min: 0.00, Max: 28.00, Mean: 2.66",Yes,18
+NumStorePurchases,Numeric,"Min: 0.00, Max: 13.00, Mean: 5.79",Yes,19
+NumWebVisitsMonth,Numeric,"Min: 0.00, Max: 20.00, Mean: 5.32",Yes,29
+AcceptedCmp3,Numeric,"Min: 0.00, Max: 1.00, Mean: 0.07",Yes,26
+AcceptedCmp4,Numeric,"Min: 0.00, Max: 1.00, Mean: 0.07",Yes,60
+AcceptedCmp5,Numeric,"Min: 0.00, Max: 1.00, Mean: 0.07",Yes,33
+AcceptedCmp1,Numeric,"Min: 0.00, Max: 1.00, Mean: 0.06",Yes,34
+AcceptedCmp2,Numeric,"Min: 0.00, Max: 1.00, Mean: 0.01",No,-
+Complain,Numeric,"Min: 0.00, Max: 1.00, Mean: 0.01",No,-
+Customer_Tenure_Days,Numeric,"Min: 185.00, Max: 884.00, Mean: 538.58",Yes,2
+Tenure_Segment,Categorical,Unique values: 3,No,-
+Enrollment_Year,Numeric,"Min: 2012.00, Max: 2014.00, Mean: 2013.03",Yes,41
+Enrollment_Month,Numeric,"Min: 1.00, Max: 12.00, Mean: 6.47",Yes,36
+Enrollment_Quarter,Numeric,"Min: 1.00, Max: 4.00, Mean: 2.48",Yes,50
+Cohort,Other,,No,-
+TotalSpend,Numeric,"Min: 5.00, Max: 2525.00, Mean: 605.80",Yes,5
+MntWines_Proportion,Numeric,"Min: 0.00, Max: 0.96, Mean: 0.46",Yes,13
+MntFruits_Proportion,Numeric,"Min: 0.00, Max: 0.45, Mean: 0.05",Yes,22
+MntMeatProducts_Proportion,Numeric,"Min: 0.00, Max: 1.00, Mean: 0.25",Yes,11
+MntFishProducts_Proportion,Numeric,"Min: 0.00, Max: 0.59, Mean: 0.07",Yes,24
+MntSweetProducts_Proportion,Numeric,"Min: 0.00, Max: 0.95, Mean: 0.05",Yes,30
+MntGoldProds_Proportion,Numeric,"Min: 0.00, Max: 0.89, Mean: 0.12",Yes,16
+SpendingDiversity,Numeric,"Min: 2.00, Max: 6.00, Mean: 5.43",Yes,45
+PrimarySpendCategory,Categorical,Unique values: 6,No,-
+TotalAcceptedCampaigns,Numeric,"Min: 0.00, Max: 4.00, Mean: 0.30",Yes,3
+CampaignResponseRate,Numeric,"Min: 0.00, Max: 0.80, Mean: 0.06",Yes,4
+Children,Numeric,"Min: 0.00, Max: 3.00, Mean: 0.95",Yes,44
+HasChildren,Numeric,"Min: 0.00, Max: 1.00, Mean: 0.72",Yes,43
+Age,Numeric,"Min: 18.00, Max: 121.00, Mean: 45.19",Yes,21
+Generation,Categorical,Unique values: 4,No,-
+LifeStage,Categorical,Unique values: 6,No,-
+TotalPurchases,Numeric,"Min: 0.00, Max: 44.00, Mean: 14.86",Yes,31
+PreferredChannel,Categorical,Unique values: 4,No,-
+ChannelDiversity,Numeric,"Min: 0.00, Max: 4.00, Mean: 3.69",Yes,39
+AvgSpend,Numeric,"Min: 0.00, Max: 1679.00, Mean: 33.27",Yes,7
+R_Score,Categorical,Unique values: 5,No,-
+F_Score,Categorical,Unique values: 5,No,-
+M_Score,Categorical,Unique values: 5,No,-
+RFM_Score,Categorical,Unique values: 84,No,-
+RFM_Segment,Categorical,Unique values: 8,No,-
+Income_per_Age,Numeric,"Min: 40.23, Max: 5025.09, Mean: 1216.58",Yes,23
+SpendToIncome,Numeric,"Min: 0.00, Max: 0.71, Mean: 0.01",Yes,9
+CampaignToPurchase,Numeric,"Min: 0.00, Max: 1.00, Mean: 0.02",Yes,6
+Spend_per_Year,Numeric,"Min: 2.91, Max: 3999.21, Mean: 459.02",Yes,15
+Estimated_CLV,Numeric,"Min: 8.74, Max: 11997.63, Mean: 1377.05",Yes,20
+AgeGroup,Categorical,Unique values: 5,No,-
